@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <main>
-      <HomeParent></HomeParent>
-  </main>
+    <HomeParent></HomeParent>
 </template>
 
 <style scoped>

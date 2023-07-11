@@ -1,9 +1,9 @@
 <script setup lang="ts">
-  import StartPageView from '../components/nav/NavParent.vue';
+  import NavParent from '../components/nav/NavParent.vue';
 </script>
 
 <template> 
- <StartPageView></StartPageView>
+ <NavParent></NavParent>
 </template>
 
 <style scoped>
