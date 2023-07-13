@@ -30,7 +30,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: #2c2928
+        background-color: #1B1B1B;
     }
 
     .text-container {
